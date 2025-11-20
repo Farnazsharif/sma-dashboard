@@ -9,7 +9,6 @@ import requests
 import pandas as pd
 from datetime import datetime, date, time as dt_time, timedelta
 from zoneinfo import ZoneInfo
-from IPython.display import clear_output
 import requests
 import pandas_ta as ta
 from rdp import rdp
